@@ -1,0 +1,14 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Fejlesztes",
+            "body": "Sziasztok...", 
+            "author": "Levi" },
+        { 
+            "id": 2, 
+            "title": "Rip", 
+            "body": "Ripecske...", 
+            "author": "Zsombor" }
+    ]
+}
