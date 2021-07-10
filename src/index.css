@@ -59,6 +59,16 @@
   margin: 20px 0;
 }
 
+.blog-details button {
+  margin-top: 10px;
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
 /* CREATE */
 
 .create {
