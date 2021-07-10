@@ -1,14 +1,28 @@
 {
-    "blogs": [
-        {
-            "id": 1,
-            "title": "Fejlesztes",
-            "body": "Sziasztok...", 
-            "author": "Levi" },
-        { 
-            "id": 2, 
-            "title": "Rip", 
-            "body": "Ripecske...", 
-            "author": "Zsombor" }
-    ]
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Fejlesztes",
+      "body": "Sziasztok...",
+      "author": "Levi"
+    },
+    {
+      "id": 2,
+      "title": "Rip",
+      "body": "Ripecske...",
+      "author": "Zsombor"
+    },
+    {
+      "title": "fgfdg",
+      "body": "fdgdfg",
+      "author": "levi",
+      "id": 3
+    },
+    {
+      "title": "dsfsdf",
+      "body": "dsfsdf",
+      "author": "zsombor",
+      "id": 4
+    }
+  ]
 }
